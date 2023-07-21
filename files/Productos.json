@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Jugo Rico",
+    "description": "jugo frutal",
+    "price": 1500,
+    "thumbnail": "https://www.clarin.com/img/2018/11/19/1moJNpDSB_340x340__1.jpg",
+    "code": "jugo de frutas",
+    "stock": 500
+  },
+  {
+    "id": 3,
+    "title": "chocolate",
+    "description": "chocolate caliente",
+    "price": 300,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcyPfb9m9WI9iwGijaOgxZA01PK0Lhyv-eyf0JOs-6Zy3TDaKvrdzgoJu0A74QQrvZwpY&usqp=CAU",
+    "code": "choco",
+    "stock": 30
+  },
+  {
+    "id": 4,
+    "title": "chocolate",
+    "description": "chocolate caliente",
+    "price": 300,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcyPfb9m9WI9iwGijaOgxZA01PK0Lhyv-eyf0JOs-6Zy3TDaKvrdzgoJu0A74QQrvZwpY&usqp=CAU",
+    "code": "chocolateN",
+    "stock": 30
+  },
+  {
+    "id": 5,
+    "title": "jugoF",
+    "description": "jugo de frutas",
+    "price": 100,
+    "thumbnail": "https://www.clarin.com/img/2018/11/19/1moJNpDSB_340x340__1.jpg",
+    "code": "juguito",
+    "stock": 50
+  },
+  {
+    "id": 6,
+    "title": "jugoNuevo",
+    "description": "jugo",
+    "price": "jugo de frutas",
+    "thumbnail": 100,
+    "code": "https://www.clarin.com/img/2018/11/19/1moJNpDSB_340x340__1.jpg",
+    "stock": "JugoN"
+  }
+]
